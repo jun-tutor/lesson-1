@@ -1,0 +1,18 @@
+himy name is jun
+
+
+1st Lesson
+///////////////////////////
+//////////////////////////
+
+
+Definitions:
+Directory: A folder for code or any stuff
+File: A thing
+
+Git Commands: 
+
+ls - LISTs everything where you are. 
+cd - CHANGE DIRECTORY or GO SOMEWHERE (We need to give this a place to go)
+cd ../ - GOES BACK ONE STEP
+touch filename.txt - CREATE A FILE (in this example it's filename.txt)
